@@ -15,6 +15,7 @@ public class Test {
 
         System.out.println(customHashMap.get(22));
         System.out.println(customHashMap.get(3358));
+        // hello its almost done in sha allah
 
 
     }
